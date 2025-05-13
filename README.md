@@ -51,6 +51,6 @@ Each segment was labeled with speaker identity and emotional tone using Label St
 
 **Samuel Njeru Ngari**  
 Medical AI Data Annotator | NLP Labeler | Transcription QA Expert  
-[LinkedIn Profile](https://www.linkedin.com/in/samuelnjerungari/)
+[LinkedIn Profile](https://www.linkedin.com/in/samuel-n-ngari)
 
 Open to freelance projects in AI annotation, healthcare NLP, and dataset QA.
